@@ -8,7 +8,7 @@ Este projeto apresenta um dashboard interativo para análise de dados salariais 
 
 ```bash
 git clone https://github.com/joaoPraiaJunior/salarios_dados.git
-cd salarios/dados/dashboard
+cd salarios_dados/dashboard
 ```
 
 ### 2. Crie e ative um ambiente virtual (recomendado)

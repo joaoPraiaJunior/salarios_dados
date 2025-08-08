@@ -7,8 +7,8 @@ Este projeto apresenta um dashboard interativo para análise de dados salariais 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/joaoPraiaJunior/curso_python.git
-cd curso_python/imersao_analise_dados/dashboard
+git clone https://github.com/joaoPraiaJunior/salarios_dados.git
+cd salarios/dados/dashboard
 ```
 
 ### 2. Crie e ative um ambiente virtual (recomendado)

@@ -48,7 +48,7 @@ O dashboard estará disponível no navegador, normalmente em `http://localhost:8
 
 ---
 
-**Visulalizar o Dasboard final**<br/>
+**Visulalizar o Dashboard final**<br/>
 <https://salarios-dados-joao-praia.streamlit.app/>
 
 ---
